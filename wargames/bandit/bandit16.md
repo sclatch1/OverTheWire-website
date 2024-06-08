@@ -24,4 +24,4 @@ Helpful Reading Material
 - [OpenSSL Cookbook - Testing with OpenSSL][]
 
 [Secure Socket Layer/Transport Layer Security on Wikipedia]: http://en.wikipedia.org/wiki/Secure_Socket_Layer
-[OpenSSL Cookbook - Testing with OpenSSL]: https://www.feistyduck.com/library/openssl-cookbook/online/ch-testing-with-openssl.html
+[OpenSSL Cookbook - Testing with OpenSSL]: https://www.feistyduck.com/library/openssl-cookbook/online/testing-with-openssl/index.html
