@@ -17,7 +17,7 @@ others will simply send back to you whatever you send to it.
 
 Commands you may need to solve this level
 -----------------------------------------
-ssh, telnet, nc, openssl, s\_client, nmap
+ssh, telnet, nc, ncat, socat, openssl, s\_client, nmap
 
 Helpful Reading Material
 ------------------------
