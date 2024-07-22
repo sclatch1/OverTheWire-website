@@ -14,7 +14,7 @@ SSL/TLS encryption.
 
 Commands you may need to solve this level
 -----------------------------------------
-ssh, telnet, nc, ncat, socat, openssl, s\_client, nmap
+ssh, telnet, nc, ncat, socat, openssl, s\_client, nmap, netstat, ss
 
 Helpful Reading Material
 ------------------------
