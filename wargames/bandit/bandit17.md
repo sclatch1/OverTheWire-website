@@ -12,6 +12,9 @@ listening on them. Then find out which of those speak SSL/TLS and which
 don't. There is only 1 server that will give the next credentials, the
 others will simply send back to you whatever you send to it.
 
+ **Helpful note: Getting "DONE", "RENEGOTIATING" or "KEYUPDATE"? Read the
+"CONNECTED COMMANDS" section in the manpage.**
+
 Commands you may need to solve this level
 -----------------------------------------
 ssh, telnet, nc, openssl, s\_client, nmap
