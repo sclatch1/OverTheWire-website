@@ -41,4 +41,4 @@ The channels used on IRC are the same as on Discord.
 
 [how to use IRC]: https://en.wikipedia.org/wiki/Wikipedia:IRC/Tutorial
 [article]: http://catb.org/~esr/faqs/smart-questions.html
-[rules]: /information/rules.html
+[rules]: /rules
